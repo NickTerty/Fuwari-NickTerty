@@ -8,16 +8,16 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "yCENzh's Blog",
-	subtitle: "爱你所爱~",
+	title: "NickTerty's Blog",
+	subtitle: "Be better",
 	themeColor: {
-		hue: 275, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
+		hue: 30, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
 		fixed: false, // Hide the theme color picker for visitors
 		forceDarkMode: false, // Force dark mode and hide the light/dark switcher
 	},
 	banner: {
 		enable: true,
-		src: "/Celestia.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		src: "assets/images/banner.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: true, // Display the credit text of the banner image
@@ -50,40 +50,42 @@ export const navBarConfig: NavBarConfig = {
 			url: "https://github.com/yCENzh", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
 		},*/
+		/*
 		{
 			name: "Travelling",
 			url: "https://www.travellings.cn/train.html",
 			external: true,
 		},
+		*/
 	],
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "/avatar.webp", // Relative to the /src directory. Relative to the /public directory if it starts with '/' 原assets/images/demo-avatar.png,可选https://q2.qlogo.cn/headimg_dl?dst_uin=189563385&spec=0
-	name: "yCENzh",
-	bio: "Protect What You Love./爱你所爱！",
+	avatar: "assets/images/avatar.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/' 原assets/images/demo-avatar.png,可选https://q2.qlogo.cn/headimg_dl?dst_uin=189563385&spec=0
+	name: "NickTerty",
+	bio: "A university student majoring in Appled Mathematics.",
 	links: [
-		/*{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+		{
+			name: "Twitter(X)",
+			icon: "fa6-brands:x-twitter", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
+			url: "https://x.com/NickTerty",
 		},
 		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
-		},*/
+			name: "Twitch",
+			icon: "fa6-brands:twitch",
+			url: "https://www.twitch.tv/nickterty",
+		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/yCENzh",
+			url: "https://github.com/NickTerty",
 		},
 		{
-			name: "Telegram",
-			icon: "fa6-brands:telegram",
-			url: "https://t.me/yCENzh",
+			name: "osu!",
+			icon: "simple-icons:osu",
+			url: "https://osu.ppy.sh/users/17847990",
 		},/*
 		{
 			name: "开往",
