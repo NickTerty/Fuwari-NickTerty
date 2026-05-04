@@ -12,7 +12,7 @@ import PostMetadata from "../../components/PostMeta.astro";
 import { profileConfig, siteConfig } from "../../config";
 import { formatDateToYYYYMMDD } from "../../utils/date-utils";
 
-import Giscus from "../../components/misc/Giscus.astro";
+// import Giscus from "../../components/misc/Giscus.astro";
 
 export async function getStaticPaths() {
 	const blogEntries = await getSortedPosts();
@@ -128,10 +128,10 @@ const jsonLd = {
         </a>
     </div>
 
-    <div class="flex w-full rounded-[var(--radius-large)] overflow-hidden relative mb-4">
+    <!-- <div class="flex w-full rounded-[var(--radius-large)] overflow-hidden relative mb-4">
         <div class="card-base z-10 px-6 md:px-9 py-6 relative w-full">
             <Giscus />
         </div>
-    </div>
+    </div> -->
 
 </MainGridLayout>
