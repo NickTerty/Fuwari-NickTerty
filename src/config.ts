@@ -45,11 +45,11 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Series,
 		LinkPreset.About,
 		LinkPreset.Friends,
-		/*{
-			name: "GitHub",
-			url: "https://github.com/yCENzh", // Internal links should not include the base path, as it is automatically added
+		{
+			name: "osu! profile",
+			url: "https://osu.ppy.sh/users/17847990", // Internal links should not include the base path, as it is automatically added
 			external: true, // Show an external link icon and will open in a new tab
-		},*/
+		},
 		/*
 		{
 			name: "Travelling",
@@ -82,11 +82,7 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:github",
 			url: "https://github.com/NickTerty",
 		},
-		{
-			name: "osu!",
-			icon: "simple-icons:osu",
-			url: "https://osu.ppy.sh/users/17847990",
-		},/*
+		/*
 		{
 			name: "开往",
 			icon: "fa6-solid:train-subway",
