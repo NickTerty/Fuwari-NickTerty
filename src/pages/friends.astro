@@ -1,7 +1,6 @@
 ---
 import MainGridLayout from "../layouts/MainGridLayout.astro";
 import friendsData from "../config/friends.json";
-// import Giscus from "../components/misc/Giscus.astro";
 
 // 从JSON文件加载友链数据
 const friends = friendsData;
@@ -13,7 +12,7 @@ const friends = friendsData;
                 {friends.map((friend) => (
                     <div class="flex flex-nowrap items-stretch h-28 gap-4 rounded-[var(--radius-large)]">
                         <div class="w-28 h-28 flex-shrink-0 rounded-lg overflow-hidden bg-zinc-200 dark:bg-zinc-900">
-                            <img src={friend.icon} alt={`${friend.name}的头像`} class="w-full h-full object-cover">
+                            <img src={friend.icon} alt={`${friend.name}'s avatar'`} class="w-full h-full object-cover">
                         </div>
                         <div class="grow w-full">
                             <div class="font-bold transition text-lg text-neutral-900 dark:text-neutral-100 mb-1">{friend.name}</div>
@@ -27,15 +26,6 @@ const friends = friendsData;
                     </div>
                 ))}
             </div>
-            // <div class="mt-8 text-center">
-            //     <p class="text-sm text-neutral-600 dark:text-neutral-400">The end Ciallo~</p>
-            // </div>
         </div>
     </div>
-    
-    // <div class="flex w-full rounded-[var(--radius-large)] overflow-hidden relative mt-4">
-    //     <div class="card-base z-10 px-6 md:px-9 py-6 relative w-full">
-    //         <Giscus />
-    //     </div>
-    // </div>
 </MainGridLayout>
