@@ -1,7 +1,7 @@
 ---
 title: 大一下修課心得(113-2)
 published: 2025-07-03
-description: ''
+description: ' '
 image: ''
 tags: [應用數學系, 微積分, 韓文課]
 category: '修課心得'

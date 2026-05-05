@@ -1,7 +1,7 @@
 ---
 title: 大一上修課心得(113-1)
 published: 2025-05-24
-description: ''
+description: ' '
 image: ''
 tags: [應用數學系, 微積分]
 category: '修課心得'

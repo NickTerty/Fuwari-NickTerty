@@ -1,7 +1,7 @@
 ---
 title: 大二上修課心得(114-1)
 published: 2026-01-25
-description: ''
+description: ' '
 image: ''
 tags: [應用數學系, 高等微積分, 資訊工程學系]
 category: '修課心得'

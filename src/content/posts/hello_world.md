@@ -1,7 +1,7 @@
 ---
 title: Hello world!
 published: 2026-05-05
-description: ''
+description: '  '
 image: ''
 tags: []
 category: ''
