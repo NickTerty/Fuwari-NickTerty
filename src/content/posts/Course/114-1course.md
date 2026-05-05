@@ -7,6 +7,7 @@ tags: [應用數學系, 高等微積分, 資訊工程學系]
 category: '修課心得'
 draft: false 
 lang: ''
+series: My university
 ---
 # 某地名大學應用數學系大二上修課心得
 ### Introduction

@@ -7,6 +7,7 @@ tags: [應用數學系, 微積分]
 category: '修課心得'
 draft: false 
 lang: ''
+series: My university
 ---
 # 某地名大學應用數學系大一上修課心得
 ### Introduction
