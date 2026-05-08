@@ -39,7 +39,7 @@ export default defineConfig({
     defaultStrategy: "hover"
   },
   
-  site: "https://fuwari.oh1.top/",
+  site: "https://nickterty.vercel.app/",
   base: "/",
   trailingSlash: "always",
 
