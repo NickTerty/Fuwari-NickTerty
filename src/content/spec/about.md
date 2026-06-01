@@ -6,6 +6,7 @@ I am interesting in
 - Mathematical Modeling
 - Coding
 - Others that waiting to discover
+
 I am currently focusing on building my core skills in Computer Science to prepare for a major transfer. Meanwhile, I will be serving as a Calculus Teaching Assistant for the Applied Math department next semester, eagerly looking forward to giving back to my home department.
 
 <!--
