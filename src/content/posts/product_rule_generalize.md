@@ -17,9 +17,10 @@ $$
 但是，假設當 $k=1,\,2,\,\dots,\,n$ 時，$f_k$ 是一個在區間內可微函數。如果要問你找 $\displaystyle\prod_{k=1}^nf_k(x)$ 的微分，用公式去暴力一個一個解開，一定很耗時間吧。<br>
 這時，我們就需要用到取 log 了。<br>
 
-> [!note] Theorem (General Product Rule)
-> Let $f_i$ be a differentiable functions on an open interval for $i=1,\,2,\,\dots,\,n$. Then the derivative of $\displaystyle\prod_{k=1}^nf_k(x)$ is
-> $$\left(\prod_{k=1}^nf_k(x)\right)^\prime=\left(\prod_{k=1}^nf_k(x)\right)\cdot\left(\sum_{k=1}^n\frac{f^\prime_k(x)}{f_k(x)}\right).$$
+:::note[Theorem (General Product Rule)]
+Let $f_i$ be a differentiable functions on an open interval for $i=1,\,2,\,\dots,\,n$. Then the derivative of $\displaystyle\prod_{k=1}^nf_k(x)$ is
+$$\left(\prod_{k=1}^nf_k(x)\right)^\prime=\left(\prod_{k=1}^nf_k(x)\right)\cdot\left(\sum_{k=1}^n\frac{f^\prime_k(x)}{f_k(x)}\right).$$
+:::
 
 接下來，我們會證明這個公式，也算是讓你推導說如何求出兩個以上函數相乘的微分。<br>
 **Proof.** It is easy to solve $(fg)^\prime=f^\prime g+fg^\prime$ by product rule. However, it is difficult to solve when more than two function. We know that
