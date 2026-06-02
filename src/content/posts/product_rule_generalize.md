@@ -19,7 +19,7 @@ $$
 
 :::note[Theorem (General Product Rule)]
 Let $f_i$ be a differentiable functions on an open interval for $i=1,\,2,\,\dots,\,n$. Then the derivative of $\displaystyle\prod_{k=1}^nf_k(x)$ is
-$$\left(\prod_{k=1}^nf_k(x)\right)^\prime=\left(\prod_{k=1}^nf_k(x)\right)\cdot\left(\sum_{k=1}^n\frac{f^\prime_k(x)}{f_k(x)}\right).$$
+$$\displaystyle\left(\prod_{k=1}^nf_k(x)\right)^\prime=\left(\prod_{k=1}^nf_k(x)\right)\cdot\left(\sum_{k=1}^n\frac{f^\prime_k(x)}{f_k(x)}\right).$$
 :::
 
 接下來，我們會證明這個公式，也算是讓你推導說如何求出兩個以上函數相乘的微分。<br>
