@@ -7,7 +7,9 @@ I am interesting in
 - Coding
 - Others that waiting to discover
 
-I am currently focusing on building my core skills in Computer Science to prepare for a major transfer. Meanwhile, I will be serving as a Calculus Teaching Assistant for the Applied Math department next semester, eagerly looking forward to giving back to my home department.
+Here is my blog and I will share anything that I want. <br>
+I am currently focusing on building my core skills in Computer Science to prepare for a major transfer. 
+<!-- Meanwhile, I will be serving as a Calculus Teaching Assistant for the Applied Math department next semester, eagerly looking forward to giving back to my home department. -->
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,latex,html,css,javascript,astro,vercel)](https://skillicons.dev)

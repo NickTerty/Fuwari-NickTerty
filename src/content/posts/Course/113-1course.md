@@ -5,7 +5,7 @@ description: ' '
 image: ''
 tags: [應用數學系, 微積分]
 category: '修課心得'
-draft: false 
+draft: true 
 lang: ''
 series: My university
 ---
