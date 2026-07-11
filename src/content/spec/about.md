@@ -1,10 +1,10 @@
 # About
 
-### Info
-Hi, I am studying in university, majoring in Applied Mathematics. <br>
+## Info
+Hi, my name is Nick. I am studying in university, majoring in Applied Mathematics. <br>
 I am interesting in 
-- Mathematical Modeling
 - Coding
+- Data Mining and Data Analysis
 - Others that waiting to discover
 
 Here is my blog and I will share anything that I want. <br>
@@ -15,8 +15,21 @@ I am currently focusing on building my core skills in Computer Science to prepar
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,latex,html,css,javascript,astro,vercel)](https://skillicons.dev)
 -->
 
-### Experience
+## Experience
+<!-- ### High School
+  - 2023: 112學年度學科能力競賽 - 數學科 複試
+### University -->
 Under Construction... <br>
+
+### Technical Skills
+- Programming Language: C, C++, Python, HTML, CSS, JavaScript
+- Mathematics:
+  - Mathematical Analysis: With a solid foundation in real analysis, excels in rigorous logical deduction and limit proofs.
+  - Core Mathematics: Calculus, Linear Algebra
+
+### Currently Learning
+- Database System
+- Data Mining
 
 <!-- 
 ### The source of template is Fuwari.
