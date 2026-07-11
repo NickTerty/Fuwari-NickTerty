@@ -24,8 +24,8 @@ Under Construction... <br>
 ### Technical Skills
 - Programming Language: C, C++, Python, HTML, CSS, JavaScript
 - Mathematics:
-  - Mathematical Analysis: With a solid foundation in real analysis, excels in rigorous logical deduction and limit proofs.
-  - Core Mathematics: Calculus, Linear Algebra
+  - Mathematical Analysis
+  - Core Mathematics: e.g. Calculus
 
 ### Currently Learning
 - Database System
