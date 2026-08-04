@@ -1,11 +1,5 @@
 [
   {
-    "name": "Astro",
-    "icon": "https://avatars.githubusercontent.com/u/44914786?s=48&v=4",
-    "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
-    "url": "https://github.com/withastro/astro"
-  },
-  {
     "name": "Luke's Website",
     "icon": "https://nickterty.github.io/lukeweb/image/huluke.jpg",
     "description": "Luke said NCKU is best.",

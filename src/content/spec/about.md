@@ -1,14 +1,13 @@
 # About
 
 ## Info
-Hi, my name is Nick. I am studying in university, majoring in Applied Mathematics. <br>
+Hi, my name is Nick. I am studying in university, majoring in Computer Science and Information Engineering. Before Fall 2026, I studied for Applied Mathematics.<br>
 I am interesting in 
 - Coding
 - Data Mining and Data Analysis
 - Others that waiting to discover
 
 Here is my blog and I will share anything that I want. <br>
-I am currently focusing on building my core skills in Computer Science to prepare for a major transfer. 
 <!-- Meanwhile, I will be serving as a Calculus Teaching Assistant for the Applied Math department next semester, eagerly looking forward to giving back to my home department. -->
 
 <!--
@@ -28,8 +27,7 @@ Under Construction... <br>
   - Core Mathematics: e.g. Calculus
 
 ### Currently Learning
-- Database System
-- Data Mining
+Under Construction...
 
 <!-- 
 ### The source of template is Fuwari.
