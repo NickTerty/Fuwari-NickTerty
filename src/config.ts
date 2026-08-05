@@ -63,7 +63,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/' 原assets/images/demo-avatar.png,可选https://q2.qlogo.cn/headimg_dl?dst_uin=189563385&spec=0
 	name: "NickTerty",
-	bio: "A university student majoring in Appled Mathematics.",
+	bio: "An University Student",
 	links: [
 		{
 			name: "Twitter(X)",
