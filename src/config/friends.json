@@ -4,6 +4,12 @@
     "icon": "https://nickterty.github.io/lukeweb/image/huluke.jpg",
     "description": "Luke said NCKU is best.",
     "url": "https://nickterty.github.io/lukeweb/"
+  },
+  {
+    "name": "My Materials",
+    "icon": "./src/assets/images/yuna.jpg",
+    "description": "All of my materials as TA or student at here.",
+    "url": "https://nickterty.github.io/my-materials"
   }
 ]
 
